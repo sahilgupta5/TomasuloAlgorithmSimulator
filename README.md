@@ -1,5 +1,7 @@
 # Tomasulo Algorithm Simulator
 
+Wiki page for this: https://en.wikipedia.org/wiki/Tomasulo_algorithm
+
 Tomasulo's algorithm simulator displays the famous computer architecture hardware algorithm for dynamic scheduling of instructions that allows out-of-order execution, designed to efficiently utilize multiple execution units.
 
 1. Vary	 the following parameters:	
